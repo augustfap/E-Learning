@@ -380,7 +380,7 @@ public class MainFrame extends javax.swing.JFrame {
 
         jLabel14.setText("Nama");
 
-        jLabel15.setText("NIP");
+        jLabel15.setText("NIM");
 
         jLabel17.setText("Umur");
 
@@ -518,7 +518,7 @@ public class MainFrame extends javax.swing.JFrame {
                 .addContainerGap(217, Short.MAX_VALUE))
         );
 
-        Dasar.add(HalamanMenuMahasiswa, "HalamanSignUpMahasiswa");
+        Dasar.add(HalamanMenuMahasiswa, "HalamanMenuMahasiswa");
 
         jLabel21.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
         jLabel21.setText("E-Learning");

@@ -535,7 +535,7 @@
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel15">
               <Properties>
-                <Property name="text" type="java.lang.String" value="NIP"/>
+                <Property name="text" type="java.lang.String" value="NIM"/>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel17">
@@ -585,7 +585,7 @@
         <Container class="javax.swing.JPanel" name="HalamanMenuMahasiswa">
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignCardLayout" value="org.netbeans.modules.form.compat2.layouts.DesignCardLayout$CardConstraintsDescription">
-              <CardConstraints cardName="HalamanSignUpMahasiswa"/>
+              <CardConstraints cardName="HalamanMenuMahasiswa"/>
             </Constraint>
           </Constraints>
 
